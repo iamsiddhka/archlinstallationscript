@@ -6,9 +6,8 @@ This repository contains a script to automate the installation of Arch Linux.
 
 1. Download the script:
     ```sh
-    curl -O https://raw.githubusercontent.com/yourusername/yourrepository/main/install-arch.sh
+    curl -O https://raw.githubusercontent.com/iamsiddhka/archinstallationscript/main/arch-openbox-install.sh
     ```
-
 2. Make the script executable:
     ```sh
     chmod +x install-arch.sh
